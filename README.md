@@ -1,4 +1,4 @@
-# 🛠️ GCP Data Pipeline – Analytics Engineer Assignment
+# 🛠️ GCP Data Pipeline 
 
 This repository demonstrates a scalable and modular data pipeline architecture built on Google Cloud Platform for analytics and dashboarding use cases.
 
