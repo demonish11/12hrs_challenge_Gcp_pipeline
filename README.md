@@ -1,6 +1,6 @@
 # 🛠️ GCP Data Pipeline Nas.io Challenge
 
-This repository demonstrates a scalable and modular data pipeline architecture built on Google Cloud Platform for analytics and dashboarding use cases.
+This project was made in a span of 12 hrs for a data championship by Nas.io , this repository demonstrates a scalable and modular data pipeline architecture built on Google Cloud Platform for analytics and dashboarding use cases.
 
 ---
 
